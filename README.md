@@ -1,2 +1,2 @@
-# js-hindi-youtube
-A code repo for javascript series at chai aur code youtube channel
+# JS Mini Projects
+A coding challenges learning from the Mini-Projects...
