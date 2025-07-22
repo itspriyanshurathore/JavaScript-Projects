@@ -1,4 +1,2 @@
 # JS Mini Projects
 A coding challenges learning from the Mini-Projects...
-	
-
